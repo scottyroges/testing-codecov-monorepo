@@ -1,8 +1,8 @@
 rm -rf ../build/project1/*
 rm -rf ../build/project2/*
 
-rm build -rf
-rm ../project2/build -rf
+rm -rf build
+rm -rf ../project2/build
 
 ./gradlew unittest
 
