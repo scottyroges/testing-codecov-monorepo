@@ -1,12 +1,7 @@
 coverage:
   status:
-    project: off
-    patch:
-      default:
-        target: 80
-        threshold: 5
-        if_no_uploads: success
-        if_not_found: success
+    project:
+      target: 80
 flags:
   project1:
     paths:
