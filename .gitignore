@@ -1,0 +1,11 @@
+bin/
+out/
+.idea/
+*.class
+*.iml
+*.bak
+.gradle/
+.DS_Store
+build/
+**/skaffold-k8s.yaml
+**/dev.yaml
